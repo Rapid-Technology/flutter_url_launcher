@@ -1,4 +1,4 @@
-# flutter_url_launcher
+# Flutter URL Launcher
 
 A new Flutter project.
 
