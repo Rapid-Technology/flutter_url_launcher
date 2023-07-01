@@ -1,6 +1,6 @@
 # Flutter URL Launcher
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/S5pBcTlMy_M/maxresdefault.jpg)](https://www.youtube.com/watch?v=S5pBcTlMy_M)
 
 ## Getting Started
 
